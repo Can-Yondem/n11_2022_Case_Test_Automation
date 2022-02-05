@@ -1,4 +1,4 @@
-Feature: Exporting promotions of categories on the Campaigns page to excel
+Feature: Exporting promotions on the Campaigns page to excel
 
   Scenario: Exporting promotions of categories on the Campaigns page to excel
     Given Campaigns page opens with a web browser
